@@ -1,0 +1,12 @@
+﻿  fivem-external.cpp
+C:\Users\Shadow\Desktop\bite\fivem-external-dupa\sdk\sdk.h(17,79): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Shadow\Desktop\bite\fivem-external-dupa\sdk\sdk.h(17,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Shadow\Desktop\bite\fivem-external-dupa\main\fivem-external.cpp(29,95): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Shadow\Desktop\bite\fivem-external-dupa\main\fivem-external.cpp(29,67): warning C4244: 'argument' : conversion de 'DWORD' en 'float', perte possible de données
+C:\Users\Shadow\Desktop\bite\fivem-external-dupa\main\fivem-external.cpp(29,52): warning C4244: 'argument' : conversion de 'DWORD' en 'float', perte possible de données
+  Génération de code en cours
+  1 of 2376 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    30 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  fivem-external-dupa.vcxproj -> C:\Users\Shadow\Desktop\bite\x64\Build\fivem-external-dupa.exe
